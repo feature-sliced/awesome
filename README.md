@@ -30,7 +30,7 @@ A curated list of awesome feature-sliced videos, articles, packages
 - https://github.com/accesso-app
 - https://github.com/cardbox
 - https://github.com/ani-team/github-client
-- https://github.com/select-name/sharead-front
+- https://github.com/select-name/sharead-front (WIP)
 
 ## Templates
 
