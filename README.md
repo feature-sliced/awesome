@@ -27,6 +27,7 @@ A curated list of awesome feature-sliced videos, articles, packages
 
 ## Examples
 
+- https://github.com/feature-sliced/examples
 - https://github.com/accesso-app
 - https://github.com/cardbox
 - https://github.com/ani-team/github-client
