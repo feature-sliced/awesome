@@ -45,7 +45,7 @@ A curated list of awesome feature-sliced videos, articles, packages
 
 ## Videos
 
-> `TBD`
+- [i18n, PageLayout, Auth / Discussion 29.05](https://youtu.be/b_nBvHWqxP8)
 
 ### External
 
