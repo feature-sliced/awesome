@@ -37,7 +37,7 @@ A curated list of awesome feature-sliced videos, articles, packages
 ## Articles
 
 - [FeatureSlices (v1)](https://featureslices.dev/)
-- [Sergey Sova - React SPB Meetup #1 (Slides)](https://t.me/feature_slices)
+- [RU] [Sergey Sova - React SPB Meetup #1 (Slides)](https://t.me/feature_slices)
 
 ### External
 
@@ -45,7 +45,8 @@ A curated list of awesome feature-sliced videos, articles, packages
 
 ## Videos
 
-- [i18n, PageLayout, Auth / Discussion 29.05](https://youtu.be/b_nBvHWqxP8)
+- [RU] [i18n, PageLayout, Auth / Discussion 29.05](https://youtu.be/b_nBvHWqxP8)
+- [RU] [FrontendCrew#2 2021 - Feature Sliced](https://youtu.be/SnzPAr_FJ7w)
 
 ### External
 
