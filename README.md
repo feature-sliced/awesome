@@ -12,7 +12,7 @@ Found something cool? Please, **[contribute](https://github.com/feature-sliced/a
 
 ## Examples
 
-See the [examples](/examples)
+See the [examples](https://feature-sliced.design/examples)
 
 ## DevExp
 
