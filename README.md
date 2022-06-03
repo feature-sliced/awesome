@@ -1,14 +1,14 @@
-# Awesome FeatureSliced [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Feature-Sliced Design [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome feature-sliced videos, articles, packages
+A curated list of awesome FSD videos, articles, packages
 
 Found something cool? Please, **[contribute](https://github.com/feature-sliced/awesome/pulls)**!
 
 ## Community
 
-- [FeatureSliced Telegram (RU)](https://t.me/feature_sliced)
-- [FeatureSliced Twitter](https://twitter.com/feature_sliced)
-- [FeatureSliced YouTube](https://www.youtube.com/channel/UCkng_PHLatpDKPOIKfI731A)
+- [FSD Telegram (RU)](https://t.me/feature_sliced)
+- [FSD Twitter](https://twitter.com/feature_sliced)
+- [FSD YouTube](https://www.youtube.com/channel/UCkng_PHLatpDKPOIKfI731A)
 
 ## Examples
 
