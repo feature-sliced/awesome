@@ -1,5 +1,7 @@
 # Awesome Feature-Sliced Design [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![fsd-banner](https://raw.githubusercontent.com/feature-sliced/documentation/master/static/img/banner.jpg)
+
 A curated list of awesome FSD videos, articles, packages
 
 Found something cool? Please, **[contribute](https://github.com/feature-sliced/awesome/pulls)**!
