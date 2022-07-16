@@ -29,7 +29,7 @@ See the [examples](https://feature-sliced.design/examples)
 
 ### Templates
 
-- *TBD...*
+- [FSD + Typescript + React + Vite minimal template](https://github.com/unordinarity/fsd-template-ts-react-vite)
 
 ### Services
 
