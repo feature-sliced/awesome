@@ -64,6 +64,7 @@ See the [examples](https://feature-sliced.design/examples)
 
 ### External
 
+- `RU` `2022` [(Krasnodar Frontend miniconf 2022) Architecture Methodology Feature Sliced / Daniil Krokhmal](https://youtu.be/BEMx3iAHP2I)
 - `RU` `2021` [(Podlodka FrontendCrew) Live-coding: Clean Architecture on Frontend / Alex Bespoyasov](https://youtu.be/h4WQRqNjmX0)
 - `RU` `2019` [Frontend project structure / Ilya Klymov](https://youtu.be/Sp8V-5k2ZaM)
 - `RU` `2019` [Evolution of enterprise architecture. From MVC to Clean Architecture / Fedor Shchudlo](https://youtu.be/WXelYPjwmk0)
