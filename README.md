@@ -20,12 +20,8 @@ See the [examples](https://feature-sliced.design/examples)
 
 ### Linting
 
-- [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
-- [eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
-- [eslint-plugin-boundaries](https://github.com/javierbrea/eslint-plugin-boundaries)
-- [dependency-cruiser](https://github.com/sverweij/dependency-cruiser)
-- [ESlint Config (Draft)](https://gist.github.com/azinit/4cb940a1d4a3e05ef47e15aa18a9ecc5)
-- *TBD...*
+- [@feature-sliced/eslint-config](https://github.com/feature-sliced/eslint-config) — Official ESLint config
+- [@conarti/eslint-plugin-feature-sliced](https://github.com/conarti/eslint-plugin-feature-sliced) — Community plugin for ESLint
 
 ### Templates
 
