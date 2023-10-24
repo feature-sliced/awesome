@@ -34,7 +34,7 @@ See the [examples](https://feature-sliced.design/examples)
 
 ### IDE
 
-- *TBD...*
+- [Feature-Sliced Design Helper](https://plugins.jetbrains.com/plugin/21638-feature-sliced-design-helper) — IntelliJ IDEA plugin that lets you quickly create layers, slices, and segments
 
 ## Articles
 
