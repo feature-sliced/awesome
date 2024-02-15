@@ -37,7 +37,7 @@ See the [examples](https://feature-sliced.design/examples)
 ### IDE
 
 - [Feature-Sliced Design Helper](https://plugins.jetbrains.com/plugin/21638-feature-sliced-design-helper) — IntelliJ IDEA plugin that lets you quickly create layers, slices, and segments
-- [FSD Slices Generator](https://marketplace.visualstudio.com/items?itemName=SbokyZahodi.fsd-slices) — The VS Code extension, which gives you the ability to quickly create FSD slices
+- [FSD Slices Generator](https://marketplace.visualstudio.com/items?itemName=SbokyZahodi.fsd-slices) — The VS Code extension that gives you the ability to quickly create FSD slices 
 
 ## Articles
 
