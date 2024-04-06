@@ -31,9 +31,10 @@ See the [examples](https://feature-sliced.design/examples)
 - [FSD + Typescript + Nuxt3 template](https://github.com/yunglocokid/FSD-Pure-Nuxt3-Template)
 - [FSD + Typescript + Quasar 2 + Vite + Dprint template](https://github.com/doox911-opensource/quasar-vite-fsd)
 
-### Services
+### Tools
 
-- *TBD...*
+- [`feature-sliced/cli`](https://github.com/feature-sliced/cli) <sub>[official]</sub> — Command-line generator for layers, slices, and segments
+- [`fsd-cruise`](https://github.com/s4ff0x/fsd-cruise) — Simple dependency visualization for Feature-Sliced Design based on dependency-cruiser
 
 ### IDE
 
