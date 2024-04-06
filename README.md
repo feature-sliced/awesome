@@ -2,19 +2,20 @@
 
 ![fsd-banner](https://raw.githubusercontent.com/feature-sliced/documentation/master/static/img/banner.jpg)
 
-A curated list of awesome FSD videos, articles, packages
+A curated list of awesome FSD videos, articles, packages.
 
 Found something cool? Please, **[contribute](https://github.com/feature-sliced/awesome/pulls)**!
 
 ## Community
 
-- [FSD Telegram (RU)](https://t.me/feature_sliced)
+- [FSD Telegram (multi-lingual)](https://t.me/feature_sliced)
+- [FSD Discord (multi-lingual)](https://discord.com/invite/S8MzWTUsmp)
 - [FSD Twitter](https://twitter.com/feature_sliced)
 - [FSD YouTube](https://www.youtube.com/channel/UCkng_PHLatpDKPOIKfI731A)
 
-## Examples
+## Project examples
 
-See the [examples](https://feature-sliced.design/examples)
+We have a showcase of [examples](https://feature-sliced.design/examples) on our website.
 
 ## DevExp
 
