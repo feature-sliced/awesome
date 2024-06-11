@@ -28,6 +28,7 @@ We have a showcase of [examples](https://feature-sliced.design/examples) on our 
 
 - [FSD + Typescript + React + Vite minimal template](https://github.com/unordinarity/fsd-template-ts-react-vite)
 - [FSD + Typescript + React + Vite SSR template](https://github.com/SilverDY/vite-super-ssr)
+- [FSD + Typescript + React + Eslint](https://github.com/yunglocokid/FSD-Pure-React-Template)
 - [FSD + Typescript + Next.js template](https://github.com/yunglocokid/FSD-Pure-Next.js-Template)
 - [FSD + Typescript + Nuxt3 + UnoCSS template](https://github.com/SbokyZahodi/FSD-Nuxt3-template)
 - [FSD + Typescript + Nuxt3 template](https://github.com/yunglocokid/FSD-Pure-Nuxt3-Template)
