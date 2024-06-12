@@ -21,6 +21,7 @@ We have a showcase of [examples](https://feature-sliced.design/examples) on our 
 
 ### Linting
 
+- [Steiger](https://github.com/feature-sliced/steiger) <sub>[official]</sub> — A universal architectural linter with full support for FSD
 - [@feature-sliced/eslint-config](https://github.com/feature-sliced/eslint-config) — Official ESLint config
 - [@conarti/eslint-plugin-feature-sliced](https://github.com/conarti/eslint-plugin-feature-sliced) — Community plugin for ESLint
 
@@ -60,8 +61,9 @@ We have a showcase of [examples](https://feature-sliced.design/examples) on our 
 
 ### Core-team
 
+- `RU` `2024` [(Podlodka React Crew) Architectural linter for Feature-Sliced Design and beyond](https://youtu.be/SDX-ke3K3VQ)
 - `RU` `2021` [(IT2G Tech Talk) Feature Sliced. Architecture of Frontend Projects / Ilya Azin, Yandex](https://youtu.be/TFA6zRO_Cl0)
-- `RU` `2021` [(Podlodka FrontendCrew) Feature Sliced. Architecture of Frontend Projects / Ilya Azin](https://youtu.be/SnzPAr_FJ7w)
+- `RU` `2021` [(Podlodka Frontend Crew) Feature Sliced. Architecture of Frontend Projects / Ilya Azin](https://youtu.be/SnzPAr_FJ7w)
 - `RU` `2021` [i18n, PageLayout, Auth / Discussion](https://youtu.be/b_nBvHWqxP8)
 - `RU` `2021` [Feature Sliced Committee Setup / Discussion](https://youtu.be/RQBslp8dngA)
 - `RU` `2021` [Architecture of React projects / TalkStream](https://youtu.be/h1YY7r9Uov8)
