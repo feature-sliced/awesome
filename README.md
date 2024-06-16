@@ -34,6 +34,7 @@ We have a showcase of [examples](https://feature-sliced.design/examples) on our 
 - [FSD + Typescript + Nuxt3 + UnoCSS template](https://github.com/SbokyZahodi/FSD-Nuxt3-template)
 - [FSD + Typescript + Nuxt3 template](https://github.com/yunglocokid/FSD-Pure-Nuxt3-Template)
 - [FSD + Typescript + Quasar 2 + Vite + Dprint template](https://github.com/doox911-opensource/quasar-vite-fsd)
+- [FSD + SvelteKit + Shadcn + Tailwind template](https://github.com/falkomerr/sveltekit-starter)
 
 ### Tools
 
