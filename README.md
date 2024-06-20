@@ -57,6 +57,7 @@ We have a showcase of [examples](https://feature-sliced.design/examples) on our 
 - [How to Organize Your React + Redux Codebase](https://www.pluralsight.com/guides/how-to-organize-your-react-+-redux-codebase)
 - [The Humanizing Work Guide to Splitting User Stories *(aka "Vetical Slices")*](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/)
 - [Is the "feature-sliced" methodology an ideal way to structure a growing project? *(BlogPost)* / Oleg Kusov](https://okusov.ru/metodologiya-feature-sliced-idealnyj-sposob-strukturirovat-rastushij-proekt)
+- `RU` [Архитектура фронтенда на основе вертикальных слайсов](https://amorgunov.com/posts/2023-05-28-vertical-sliced-architecture-in-frontend/)
 
 ## Talks
 
@@ -72,6 +73,7 @@ We have a showcase of [examples](https://feature-sliced.design/examples) on our 
 
 ### External
 
+- `RU` `2024` [(Я💛Фронтенд 2024) Копаем глубже в Feature-Sliced Design / Alexander Morgunov](https://www.youtube.com/watch?v=M84x3pzDYr0&ab_channel=YandexforFrontend)
 - `RU` `2022` [(Krasnodar Frontend miniconf 2022) Architecture Methodology Feature Sliced / Daniil Krokhmal](https://youtu.be/BEMx3iAHP2I)
 - `RU` `2021` [(Podlodka FrontendCrew) Live-coding: Clean Architecture on Frontend / Alex Bespoyasov](https://youtu.be/h4WQRqNjmX0)
 - `RU` `2019` [Frontend project structure / Ilya Klymov](https://youtu.be/Sp8V-5k2ZaM)
