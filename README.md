@@ -48,16 +48,18 @@ We have a showcase of [examples](https://feature-sliced.design/examples) on our 
 
 ## Articles
 
-- [Feature Slices (v1) / Sergey Sova](https://featureslices.dev/)
+- `RU` [Как мы приготовили Feature-Sliced Design в VK](https://habr.com/ru/companies/vk/articles/831148/)
+- `RU` [Архитектура фронтенда на основе вертикальных слайсов](https://amorgunov.com/posts/2023-05-28-vertical-sliced-architecture-in-frontend/)
+- [Clean Architecture on Frontend / Alex Bespoyasov](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311)
+  - Translation: `RU` [Чистая архитектура во фронтенде / Саша Беспоясов](https://bespoyasov.ru/blog/clean-architecture-on-frontend/)
+- `RU` [Feature-Sliced Design – альтернативный подход к организации кода приложений](https://habr.com/ru/companies/avito/articles/752536/)
 - [Feature Driven / Oleg Isonen](https://github.com/feature-sliced/documentation/tree/rc/feature-driven)
 - [Atomic Design / Brad Frost](https://atomicdesign.bradfrost.com/table-of-contents/)
-- [Clean Architecture on Frontend / Alex Bespoyasov](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311)
 - [A feature based approach to React development](https://ryanlanciaux.com/blog/2017/08/20/a-feature-based-approach-to-react-development/)
 - [Why React developers should modularize their applications?](https://alexmngn.medium.com/why-react-developers-should-modularize-their-applications-d26d381854c1)
 - [How to Organize Your React + Redux Codebase](https://www.pluralsight.com/guides/how-to-organize-your-react-+-redux-codebase)
-- [The Humanizing Work Guide to Splitting User Stories *(aka "Vetical Slices")*](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/)
+- [The Humanizing Work Guide to Splitting User Stories *(aka "Vertical Slices")*](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/)
 - [Is the "feature-sliced" methodology an ideal way to structure a growing project? *(BlogPost)* / Oleg Kusov](https://okusov.ru/metodologiya-feature-sliced-idealnyj-sposob-strukturirovat-rastushij-proekt)
-- `RU` [Архитектура фронтенда на основе вертикальных слайсов](https://amorgunov.com/posts/2023-05-28-vertical-sliced-architecture-in-frontend/)
 
 ## Talks
 
