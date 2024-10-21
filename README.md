@@ -75,6 +75,7 @@ We have a showcase of [examples](https://feature-sliced.design/examples) on our 
 
 ### External
 
+- `RU` `2024` [(HolyJS Spring 2024) Путеводитель по архитектуре фронтенда в 2024 / Александр Гузенко](https://www.youtube.com/watch?v=mnQrowYzMmU)
 - `RU` `2024` [(Я💛Фронтенд 2024) Копаем глубже в Feature-Sliced Design / Alexander Morgunov](https://www.youtube.com/watch?v=M84x3pzDYr0&ab_channel=YandexforFrontend)
 - `RU` `2023` [(VK IT Point) Feature-Sliced Design: опыт применения фронтенд-архитектуры в React-приложении / Антон Усков](https://www.youtube.com/watch?v=ku02Vkauods)
 - `RU` `2023` [(YaTalks 2023) Эволюция архитектуры. Как мы пришли к FSD / Сергей Пономарёв](https://www.youtube.com/watch?v=KVcY1bfUCBU)
