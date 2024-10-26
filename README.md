@@ -10,7 +10,6 @@ Found something cool? Please, **[contribute](https://github.com/feature-sliced/a
 
 - [FSD Telegram (multi-lingual)](https://t.me/feature_sliced)
 - [FSD Discord (multi-lingual)](https://discord.com/invite/S8MzWTUsmp)
-- [FSD Twitter](https://twitter.com/feature_sliced)
 - [FSD YouTube](https://www.youtube.com/channel/UCkng_PHLatpDKPOIKfI731A)
 
 ## Project examples
