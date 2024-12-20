@@ -64,6 +64,7 @@ We have a showcase of [examples](https://feature-sliced.design/examples) on our 
 
 ### Core-team
 
+- `RU` `2024` [(Стрим на канале Евгения Паромова) Релиз FSD 2.1! Обсуждаем с кор-тимой FSD плюсы и минусы](https://youtu.be/d-lBLEvMla0)
 - `RU` `2024` [(Podlodka React Crew) Architectural linter for Feature-Sliced Design and beyond](https://youtu.be/SDX-ke3K3VQ)
 - `RU` `2021` [(IT2G Tech Talk) Feature Sliced. Architecture of Frontend Projects / Ilya Azin, Yandex](https://youtu.be/TFA6zRO_Cl0)
 - `RU` `2021` [(Podlodka Frontend Crew) Feature Sliced. Architecture of Frontend Projects / Ilya Azin](https://youtu.be/SnzPAr_FJ7w)
