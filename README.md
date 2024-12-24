@@ -49,16 +49,16 @@ We have a showcase of [examples](https://feature-sliced.design/examples) on our 
 
 - `RU` [Как мы приготовили Feature-Sliced Design в VK](https://habr.com/ru/companies/vk/articles/831148/)
 - `RU` [Архитектура фронтенда на основе вертикальных слайсов](https://amorgunov.com/posts/2023-05-28-vertical-sliced-architecture-in-frontend/)
-- [Clean Architecture on Frontend / Alex Bespoyasov](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311)
+- `EN` [Clean Architecture on Frontend / Alex Bespoyasov](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311)
   - Translation: `RU` [Чистая архитектура во фронтенде / Саша Беспоясов](https://bespoyasov.ru/blog/clean-architecture-on-frontend/)
 - `RU` [Feature-Sliced Design – альтернативный подход к организации кода приложений](https://habr.com/ru/companies/avito/articles/752536/)
-- [Feature Driven / Oleg Isonen](https://github.com/feature-sliced/documentation/tree/rc/feature-driven)
-- [Atomic Design / Brad Frost](https://atomicdesign.bradfrost.com/table-of-contents/)
-- [A feature based approach to React development](https://ryanlanciaux.com/blog/2017/08/20/a-feature-based-approach-to-react-development/)
-- [Why React developers should modularize their applications?](https://alexmngn.medium.com/why-react-developers-should-modularize-their-applications-d26d381854c1)
-- [How to Organize Your React + Redux Codebase](https://www.pluralsight.com/guides/how-to-organize-your-react-+-redux-codebase)
-- [The Humanizing Work Guide to Splitting User Stories *(aka "Vertical Slices")*](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/)
-- [Is the "feature-sliced" methodology an ideal way to structure a growing project? *(BlogPost)* / Oleg Kusov](https://okusov.ru/metodologiya-feature-sliced-idealnyj-sposob-strukturirovat-rastushij-proekt)
+- `EN` [Feature Driven / Oleg Isonen](https://github.com/feature-sliced/documentation/tree/rc/feature-driven)
+- `EN` [Atomic Design / Brad Frost](https://atomicdesign.bradfrost.com/table-of-contents/)
+- `EN` [A feature based approach to React development](https://ryanlanciaux.com/blog/2017/08/20/a-feature-based-approach-to-react-development/)
+- `EN` [Why React developers should modularize their applications? / Alexis Mangin](https://alexmngn.medium.com/why-react-developers-should-modularize-their-applications-d26d381854c1)
+- `EN` [How to Organize Your React + Redux Codebase](https://www.pluralsight.com/guides/how-to-organize-your-react-+-redux-codebase)
+- `EN` [The Humanizing Work Guide to Splitting User Stories *(aka "Vertical Slices")*](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/)
+- `RU` [Методология "feature-sliced" - идеальный способ структурировать растущий проект? / Олег Кусов](https://okusov.ru/metodologiya-feature-sliced-idealnyj-sposob-strukturirovat-rastushij-proekt)
 
 ## Talks
 
@@ -75,8 +75,9 @@ We have a showcase of [examples](https://feature-sliced.design/examples) on our 
 
 ### External
 
+- `RU` `2024` [(HolyJS Autumn 2024) Разбираемся в Feature-Sliced Design / Александр Моргунов](https://www.youtube.com/watch?v=H_rJ0zB8rqc)
 - `RU` `2024` [(HolyJS Spring 2024) Путеводитель по архитектуре фронтенда в 2024 / Александр Гузенко](https://www.youtube.com/watch?v=mnQrowYzMmU)
-- `RU` `2024` [(Я💛Фронтенд 2024) Копаем глубже в Feature-Sliced Design / Alexander Morgunov](https://www.youtube.com/watch?v=M84x3pzDYr0&ab_channel=YandexforFrontend)
+- `RU` `2024` [(Я💛Фронтенд 2024) Копаем глубже в Feature-Sliced Design / Александр Моргунов](https://www.youtube.com/watch?v=M84x3pzDYr0&ab_channel=YandexforFrontend)
 - `RU` `2023` [(VK IT Point) Feature-Sliced Design: опыт применения фронтенд-архитектуры в React-приложении / Антон Усков](https://www.youtube.com/watch?v=ku02Vkauods)
 - `RU` `2023` [(YaTalks 2023) Эволюция архитектуры. Как мы пришли к FSD / Сергей Пономарёв](https://www.youtube.com/watch?v=KVcY1bfUCBU)
 - `RU` `2022` [(Krasnodar Frontend miniconf 2022) Architecture Methodology Feature Sliced / Daniil Krokhmal](https://youtu.be/BEMx3iAHP2I)
