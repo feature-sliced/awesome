@@ -47,6 +47,7 @@ We have a showcase of [examples](https://feature-sliced.design/examples) on our 
 
 ## Articles
 
+- `RU` [Эффективный процесс разработки на основе Feature-Sliced Design: наш опыт](https://habr.com/ru/companies/chibbis/articles/871472/)
 - `RU` [Как мы приготовили Feature-Sliced Design в VK](https://habr.com/ru/companies/vk/articles/831148/)
 - `RU` [Архитектура фронтенда на основе вертикальных слайсов](https://amorgunov.com/posts/2023-05-28-vertical-sliced-architecture-in-frontend/)
 - `EN` [Clean Architecture on Frontend / Alex Bespoyasov](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311)
