@@ -14,7 +14,7 @@ Found something cool? Please, **[contribute](https://github.com/feature-sliced/a
 
 ## Project examples
 
-We have a showcase of [examples](https://feature-sliced.design/examples) on our website.
+We have a showcase of [examples](https://feature-sliced.github.io/documentation/examples) on our website.
 
 ## DevExp
 
