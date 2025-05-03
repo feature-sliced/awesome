@@ -21,7 +21,7 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 ### Linting
 
 - [Steiger](https://github.com/feature-sliced/steiger) <sub>[official]</sub> — A universal architectural linter with full support for FSD
-- [@feature-sliced/eslint-config](https://github.com/feature-sliced/eslint-config) — Official ESLint config
+- DEPRECATED ~~[@feature-sliced/eslint-config](https://github.com/feature-sliced/eslint-config) — Official ESLint config~~
 - [@conarti/eslint-plugin-feature-sliced](https://github.com/conarti/eslint-plugin-feature-sliced) — Community plugin for ESLint
 
 ### Templates
