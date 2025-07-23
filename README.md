@@ -39,6 +39,8 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 
 - [`feature-sliced/cli`](https://github.com/feature-sliced/cli) <sub>[official]</sub> — Command-line generator for layers, slices, and segments
 - [`fsd-cruise`](https://github.com/s4ff0x/fsd-cruise) — Simple dependency visualization for Feature-Sliced Design based on dependency-cruiser
+- [`fsd-crawler`](https://github.com/falkomerr/fsd-crawler) — simple utility for visualization and analysis of slices and dependencies
+
 
 ### IDE
 
