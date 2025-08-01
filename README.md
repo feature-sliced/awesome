@@ -48,6 +48,7 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 
 ## Articles
 
+- `KO` [FSD 관점으로 바라보는 코드 경계 찾기 / 유용태 (테오)](https://velog.io/@teo/fsd)
 - `KO` [프론트엔드 개발자 관점으로 바라보는 관심사의 분리와 좋은 폴더 구조 (feat. FSD) / 유용태 (테오)](https://velog.io/@teo/separation-of-concerns-of-frontend)
 - `EN` [Settling the File Structure Debate / Muhammed Sarı](https://muhammedsari.me/settling-the-file-structure-debate)
 - `RU` [Эффективный процесс разработки на основе Feature-Sliced Design: наш опыт](https://habr.com/ru/companies/chibbis/articles/871472/)
