@@ -41,14 +41,14 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 - [`fsd-cruise`](https://github.com/s4ff0x/fsd-cruise) — Simple dependency visualization for Feature-Sliced Design based on dependency-cruiser
 - [`fsd-crawler`](https://github.com/falkomerr/fsd-crawler) — simple utility for visualization and analysis of slices and dependencies
 
-
 ### IDE
 
 - [Feature-Sliced Design Helper](https://plugins.jetbrains.com/plugin/21638-feature-sliced-design-helper) — IntelliJ IDEA plugin that lets you quickly create layers, slices, and segments
-- [FSD Slices Generator](https://marketplace.visualstudio.com/items?itemName=SbokyZahodi.fsd-slices) — The VS Code extension that gives you the ability to quickly create FSD slices 
+- [FSD Slices Generator](https://marketplace.visualstudio.com/items?itemName=SbokyZahodi.fsd-slices) — The VS Code extension that gives you the ability to quickly create FSD slices
 
 ## Articles
 
+- `KO` [프론트엔드 개발자 관점으로 바라보는 관심사의 분리와 좋은 폴더 구조 (feat. FSD) / 유용태 (테오)](https://velog.io/@teo/separation-of-concerns-of-frontend)
 - `EN` [Settling the File Structure Debate / Muhammed Sarı](https://muhammedsari.me/settling-the-file-structure-debate)
 - `RU` [Эффективный процесс разработки на основе Feature-Sliced Design: наш опыт](https://habr.com/ru/companies/chibbis/articles/871472/)
 - `RU` [Как мы приготовили Feature-Sliced Design в VK](https://habr.com/ru/companies/vk/articles/831148/)
@@ -61,7 +61,7 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 - `EN` [A feature based approach to React development](https://ryanlanciaux.com/blog/2017/08/20/a-feature-based-approach-to-react-development/)
 - `EN` [Why React developers should modularize their applications? / Alexis Mangin](https://alexmngn.medium.com/why-react-developers-should-modularize-their-applications-d26d381854c1)
 - `EN` [How to Organize Your React + Redux Codebase](https://www.pluralsight.com/guides/how-to-organize-your-react-+-redux-codebase)
-- `EN` [The Humanizing Work Guide to Splitting User Stories *(aka "Vertical Slices")*](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/)
+- `EN` [The Humanizing Work Guide to Splitting User Stories _(aka "Vertical Slices")_](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/)
 - `RU` [Методология "feature-sliced" - идеальный способ структурировать растущий проект? / Олег Кусов](https://okusov.ru/metodologiya-feature-sliced-idealnyj-sposob-strukturirovat-rastushij-proekt)
 
 ## Talks
