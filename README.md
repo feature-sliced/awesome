@@ -1,7 +1,5 @@
 # Awesome Feature-Sliced Design [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![fsd-banner](https://raw.githubusercontent.com/feature-sliced/documentation/master/static/img/banner.jpg)
-
 A curated list of awesome FSD videos, articles, packages.
 
 Found something cool? Please, **[contribute](https://github.com/feature-sliced/awesome/pulls)**!
@@ -24,6 +22,17 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 - [@feature-sliced/eslint-config](https://github.com/feature-sliced/eslint-config) — Official ESLint config
 - [@conarti/eslint-plugin-feature-sliced](https://github.com/conarti/eslint-plugin-feature-sliced) — Community plugin for ESLint
 
+### Tools
+
+- [`feature-sliced/cli`](https://github.com/feature-sliced/cli) <sub>[official]</sub> — Command-line generator for layers, slices, and segments
+- [`fsd-cruise`](https://github.com/s4ff0x/fsd-cruise) — Simple dependency visualization for Feature-Sliced Design based on dependency-cruiser
+- [`fsd-crawler`](https://github.com/falkomerr/fsd-crawler) — simple utility for visualization and analysis of slices and dependencies
+
+### IDE
+
+- [Feature-Sliced Design Helper](https://plugins.jetbrains.com/plugin/21638-feature-sliced-design-helper) — IntelliJ IDEA plugin that lets you quickly create layers, slices, and segments
+- [FSD Slices Generator](https://marketplace.visualstudio.com/items?itemName=SbokyZahodi.fsd-slices) — The VS Code extension that gives you the ability to quickly create FSD slices
+
 ### Templates
 
 - [FSD + Typescript + React + Vite minimal template](https://github.com/unordinarity/fsd-template-ts-react-vite)
@@ -35,17 +44,6 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 - [FSD + Typescript + Quasar 2 + Vite + Dprint template](https://github.com/doox911-opensource/quasar-vite-fsd)
 - [FSD + SvelteKit + Shadcn + Tailwind template](https://github.com/falkomerr/sveltekit-starter)
 - [FSD + Flutter + Flutter Lint template](https://github.com/hardy716/fsd_flutter_template)
-
-### Tools
-
-- [`feature-sliced/cli`](https://github.com/feature-sliced/cli) <sub>[official]</sub> — Command-line generator for layers, slices, and segments
-- [`fsd-cruise`](https://github.com/s4ff0x/fsd-cruise) — Simple dependency visualization for Feature-Sliced Design based on dependency-cruiser
-- [`fsd-crawler`](https://github.com/falkomerr/fsd-crawler) — simple utility for visualization and analysis of slices and dependencies
-
-### IDE
-
-- [Feature-Sliced Design Helper](https://plugins.jetbrains.com/plugin/21638-feature-sliced-design-helper) — IntelliJ IDEA plugin that lets you quickly create layers, slices, and segments
-- [FSD Slices Generator](https://marketplace.visualstudio.com/items?itemName=SbokyZahodi.fsd-slices) — The VS Code extension that gives you the ability to quickly create FSD slices
 
 ## Articles
 
@@ -71,8 +69,9 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 
 ### Core-team
 
+- `RU` `2025` [(Podlodka React Crew) «В смысле не фича?» — FSD 2.1 с примерами и критикой"](https://youtu.be/11pT1JnJcMA)
 - `RU` `2024` [(Стрим на канале Евгения Паромова) Релиз FSD 2.1! Обсуждаем с кор-тимой FSD плюсы и минусы](https://youtu.be/d-lBLEvMla0)
-- `RU` `2024` [(Podlodka React Crew) Architectural linter for Feature-Sliced Design and beyond](https://youtu.be/SDX-ke3K3VQ)
+- `RU` `2024` [(Podlodka React Crew) Архитектурный линтер для Feature-Sliced Design и не только](https://youtu.be/SDX-ke3K3VQ)
 - `RU` `2021` [(IT2G Tech Talk) Feature Sliced. Architecture of Frontend Projects / Ilya Azin, Yandex](https://youtu.be/TFA6zRO_Cl0)
 - `RU` `2021` [(Podlodka Frontend Crew) Feature Sliced. Architecture of Frontend Projects / Ilya Azin](https://youtu.be/SnzPAr_FJ7w)
 - `RU` `2021` [i18n, PageLayout, Auth / Discussion](https://youtu.be/b_nBvHWqxP8)
