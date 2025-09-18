@@ -81,6 +81,7 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 
 ### External
 
+- `RU` `2025` [(HolyJS Spring 2025) Используем различные архитектуры внутри FSD / Александр Моргунов](https://www.youtube.com/watch?v=EZZffcYJzTk)
 - `RU` `2024` [(HolyJS Autumn 2024) 3 главных недостатка FSD после 3 лет использования / Евгений Паромов](https://www.youtube.com/watch?v=yRH0O4Fn53U)
 - `RU` `2024` [(HolyJS Autumn 2024) Разбираемся в Feature-Sliced Design / Александр Моргунов](https://www.youtube.com/watch?v=H_rJ0zB8rqc)
 - `RU` `2024` [(HolyJS Spring 2024) Путеводитель по архитектуре фронтенда в 2024 / Александр Гузенко](https://www.youtube.com/watch?v=mnQrowYzMmU)
