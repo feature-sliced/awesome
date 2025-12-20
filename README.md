@@ -47,6 +47,7 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 
 ## Articles
 
+- `RU` [Мой справочник по Feature-Sliced Design / Сергей Сибара](https://habr.com/ru/companies/T1Holding/articles/976220/)
 - `KO` [Frontend Clean Architecture (with FSD & DDD) / 이민기 (Lapidix)](https://lapidix.dev/posts/fsd-ddd-clean-architecture)
 - `KO` [FSD 관점으로 바라보는 코드 경계 찾기 / 유용태 (테오)](https://velog.io/@teo/fsd)
 - `KO` [프론트엔드 개발자 관점으로 바라보는 관심사의 분리와 좋은 폴더 구조 (feat. FSD) / 유용태 (테오)](https://velog.io/@teo/separation-of-concerns-of-frontend)
