@@ -82,6 +82,7 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 
 ### External
 
+- `RU` `2025` [(Не)архитектура: FSD - виновен ли? / JavaScript.Ninja](https://www.youtube.com/watch?v=RihqsaawKNQ)
 - `RU` `2025` [(HolyJS Spring 2025) Используем различные архитектуры внутри FSD / Александр Моргунов](https://www.youtube.com/watch?v=EZZffcYJzTk)
 - `RU` `2024` [(HolyJS Autumn 2024) 3 главных недостатка FSD после 3 лет использования / Евгений Паромов](https://www.youtube.com/watch?v=yRH0O4Fn53U)
 - `RU` `2024` [(HolyJS Autumn 2024) Разбираемся в Feature-Sliced Design / Александр Моргунов](https://www.youtube.com/watch?v=H_rJ0zB8rqc)
@@ -91,6 +92,6 @@ We have a showcase of [examples](https://feature-sliced.github.io/documentation/
 - `RU` `2023` [(YaTalks 2023) Эволюция архитектуры. Как мы пришли к FSD / Сергей Пономарёв](https://www.youtube.com/watch?v=KVcY1bfUCBU)
 - `RU` `2022` [(Krasnodar Frontend miniconf 2022) Architecture Methodology Feature Sliced / Daniil Krokhmal](https://youtu.be/BEMx3iAHP2I)
 - `RU` `2021` [(Podlodka FrontendCrew) Live-coding: Clean Architecture on Frontend / Alex Bespoyasov](https://youtu.be/h4WQRqNjmX0)
-- `RU` `2019` [Frontend project structure / Ilya Klymov](https://youtu.be/Sp8V-5k2ZaM)
+- `RU` `2019` [Frontend project structure / JavaScript.Ninja](https://youtu.be/Sp8V-5k2ZaM)
 - `RU` `2019` [Evolution of enterprise architecture. From MVC to Clean Architecture / Fedor Shchudlo](https://youtu.be/WXelYPjwmk0)
 - `EN` `2018` [(React Berlin) Feature Driven Development / Oleg Isonen](https://youtu.be/BWAeYuWFHhs)
